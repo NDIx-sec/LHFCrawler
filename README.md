@@ -32,7 +32,7 @@ In addition to automatic domain and URL discovery, LHFCrawler also supports manu
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/NDIX-sec/LFHCrawler.git
+   git clone https://github.com/NDIX-sec/LHFCrawler.git
    cd LHFCrawler
    ```
 
